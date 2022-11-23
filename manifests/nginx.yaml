@@ -19,4 +19,4 @@ spec:
       - name: nginx
         image: nginx:latest
         ports:
-        - containerPort: 84
+        - containerPort: 85
