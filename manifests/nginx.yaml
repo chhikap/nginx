@@ -2,7 +2,6 @@ apiVersion: apps/v1
 kind: Deployment
 metadata:
   name: nginx-manifest
-  namespace: test
   labels:
     app: nginx
 spec:
